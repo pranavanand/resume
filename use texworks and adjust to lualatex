@@ -1,0 +1,24 @@
+use texworks and adjust to lualatex
+
+
+  \cvskill
+    {Facesnoop}
+    {
+      
+        Browser extension which blocks ‘seen’ notification in the Facebook desktop chat. \textit{JavaScript}
+      
+    }
+  \cvskill
+    {Readdit}
+    {
+      
+        Handless navigation for the Pebble coupled with a Reddit app. \textit{Pebble SDK, C, JavaScript}
+      
+    }
+  \cvskill
+    {Drivers2Go}
+    {
+      
+        Android app which allows non-English speaking taxi drivers to communicate with English speaking customers. \textit{Android, Java}
+      
+    }

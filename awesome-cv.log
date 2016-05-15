@@ -1,0 +1,15 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdftex 2016.5.13)  13 MAY 2016 12:40
+entering extended mode
+**C:/Users/PA/Documents/Resume/awesome-cv.cls
+(C:/Users/PA/Documents/Resume/awesome-cv.cls
+! Undefined control sequence.
+l.24 \ProvidesClass
+                   {awesome-cv}[2015/12/14 v1.3 Awesome Curriculum Vitae Class]
+
+? 
+! Emergency stop.
+l.24 \ProvidesClass
+                   {awesome-cv}[2015/12/14 v1.3 Awesome Curriculum Vitae Class]
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!
