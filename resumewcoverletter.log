@@ -1,7 +1,7 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (MiKTeX 2.9) (preloaded format=xelatex 2016.5.7)  14 DEC 2016 23:56
+This is XeTeX, Version 3.14159265-2.6-0.99992 (MiKTeX 2.9) (preloaded format=xelatex 2016.5.7)  15 MAY 2016 21:49
 entering extended mode
-**./resume.tex
-(resume.tex
+**./resumewcoverletter.tex
+(resumewcoverletter.tex
 LaTeX2e <2015/10/01> patch level 2
 Babel <3.9n> and hyphenation patterns for 69 languages loaded.
 (awesome-cv.cls
@@ -727,38 +727,39 @@ Requested font "[fonts/SourceSansPro-SemiboldIt]/OT" at 10.0pt
 (C:\Users\PA\AppData\Roaming\MiKTeX\2.9\tex\latex\import\import.sty
 Package: import 2009/03/23  v 5.1
 )
-(resume.aux)
-\openout1 = `resume.aux'.
+(resumewcoverletter.aux)
+\openout1 = `resumewcoverletter.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 72.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 72.
- (C:\Users\PA\AppData\Roaming\MiKTeX\2.9\tex\latex\tipa\t3cmr.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 73.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 73.
+
+(C:\Users\PA\AppData\Roaming\MiKTeX\2.9\tex\latex\tipa\t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 72.
+LaTeX Info: Redefining \selectfont on input line 73.
 
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -809,39 +810,39 @@ t
  -> C:/Users/PA/AppData/Roaming/MiKTeX/2.9/fonts/opentype/public/lm-math/latinm
 odern-math.otf
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 72.
+(Font)              `operators' in the math version `normal' on input line 73.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> EU1/latinmodern-math.otf(0)/m/n on inpu
-t line 72.
+t line 73.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 72.
+(Font)              `operators' in the math version `bold' on input line 73.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> EU1/latinmodern-math.otf(0)/bx/n on in
-put line 72.
+put line 73.
 LaTeX Font Info:    Encoding `OMS' has changed to `EU1' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 72.
+(Font)              `symbols' in the math version `normal' on input line 73.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/cmsy/m/n --> EU1/latinmodern-math.otf(1)/m/n on inp
-ut line 72.
+ut line 73.
 LaTeX Font Info:    Encoding `OMS' has changed to `EU1' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 72.
+(Font)              `symbols' in the math version `bold' on input line 73.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> EU1/latinmodern-math.otf(1)/bx/n on in
-put line 72.
+put line 73.
 LaTeX Font Info:    Encoding `OMX' has changed to `EU1' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 7
-2.
+3.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> EU1/latinmodern-math.otf(2)/m/n on inp
-ut line 72.
+ut line 73.
 LaTeX Font Info:    Encoding `OMX' has changed to `EU1' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 72.
+(Font)              `largesymbols' in the math version `bold' on input line 73.
 
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> EU1/latinmodern-math.otf(2)/bx/n on in
-put line 72.
+put line 73.
 \AtBeginShipoutBox=\box43
-Package hyperref Info: Link coloring OFF on input line 72.
+Package hyperref Info: Link coloring OFF on input line 73.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -850,19 +851,29 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count146
 )
-LaTeX Info: Redefining \ref on input line 72.
-LaTeX Info: Redefining \pageref on input line 72.
-LaTeX Info: Redefining \nameref on input line 72.
+LaTeX Info: Redefining \ref on input line 73.
+LaTeX Info: Redefining \pageref on input line 73.
+LaTeX Info: Redefining \nameref on input line 73.
 
-(resume.out) (resume.out)
+(resumewcoverletter.out) (resumewcoverletter.out)
 \@outlinefile=\write3
-\openout3 = `resume.out'.
+\openout3 = `resumewcoverletter.out'.
 
 Requested font "[fonts/Roboto-Thin]/OT:mapping=tex-text;" at 32.0pt
  -> ./fonts/Roboto-Thin.ttf
-Requested font "[fonts/Roboto-Regular]/OT:mapping=tex-text;" at 9.0pt
+Requested font "[fonts/Roboto-Regular]/OT:mapping=tex-text;" at 32.0pt
  -> ./fonts/Roboto-Regular.ttf
-Requested font "[fonts/FontAwesome]/OT:mapping=tex-text;" at 9.0pt
+Requested font "[fonts/Roboto-Bold]/OT:mapping=tex-text;" at 32.0pt
+ -> ./fonts/Roboto-Bold.ttf
+Requested font "[fonts/SourceSansPro-Regular]/OT:script=latn;language=DFLT;mapp
+ing=tex-text;" at 7.6pt
+ -> ./fonts/SourceSansPro-Regular.otf
+Requested font "[fonts/SourceSansPro-Regular]/OT:script=latn;language=DFLT;mapp
+ing=tex-text;+smcp;" at 7.6pt
+ -> ./fonts/SourceSansPro-Regular.otf
+Requested font "[fonts/Roboto-Regular]/OT:mapping=tex-text;" at 6.8pt
+ -> ./fonts/Roboto-Regular.ttf
+Requested font "[fonts/FontAwesome]/OT:mapping=tex-text;" at 6.8pt
  -> ./fonts/FontAwesome.otf
  (resume/skills.tex
 Requested font "[fonts/SourceSansPro-Regular]/OT:script=latn;language=DFLT;mapp
@@ -928,7 +939,7 @@ Requested font "[fonts/SourceSansPro-Light]/OT:script=latn;language=DFLT;mappin
 g=tex-text;" at 9.0pt
  -> ./fonts/SourceSansPro-Light.otf
 
-Overfull \hbox (17.7633pt too wide) in alignment at lines 2--14
+Overfull \hbox (17.7633pt too wide) in alignment at lines 2--19
 [] [] 
  []
 
@@ -959,31 +970,32 @@ ing=tex-text;" at 8.0pt
 Requested font "[fonts/SourceSansPro-Semibold]/OT:script=latn;language=DFLT;map
 ping=tex-text;" at 9.0pt
  -> ./fonts/SourceSansPro-Semibold.otf
+) (resume/projects.tex
 Requested font "[fonts/SourceSansPro-SemiboldIt]/OT:script=latn;language=DFLT;m
 apping=tex-text;" at 9.0pt
  -> ./fonts/SourceSansPro-SemiboldIt.otf
-) (resume/projects.tex
-Overfull \hbox (17.4833pt too wide) in alignment at lines 2--43
+
+Overfull \hbox (17.4833pt too wide) in alignment at lines 2--63
 [] [] 
  []
 
 ) (resume/education.tex)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 88.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 89.
  [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 88.
- (resume.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 88.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 88.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 89.
+ (resumewcoverletter.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 89.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 89.
  ) 
 Here is how much of TeX's memory you used:
- 28721 strings out of 428721
- 504997 string characters out of 3163015
- 639164 words of memory out of 3000000
- 31847 multiletter control sequences out of 15000+200000
- 6456 words of font info for 69 fonts, out of 3000000 for 9000
+ 28729 strings out of 428721
+ 505508 string characters out of 3163015
+ 638195 words of memory out of 3000000
+ 31851 multiletter control sequences out of 15000+200000
+ 6488 words of font info for 73 fonts, out of 3000000 for 9000
  1096 hyphenation exceptions out of 8191
- 53i,11n,68p,10397b,494s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 53i,11n,68p,10409b,464s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on resume.pdf (1 page).
+Output written on resumewcoverletter.pdf (1 page).
